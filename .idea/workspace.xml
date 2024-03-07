@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ff1855cf-e84b-4bf3-b6f8-df0e4008dc33" name="Changes" comment="project" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Tic_Tac_Toe/TicTacToe.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2biHMfm5VhUF3GOGdzMuTRtzGgm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/DELL/IdeaProjects/javaTask/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="chapterThree" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="BackToSenderLogistics" />
+      <recent name="Tic_Tac_Toe" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="BackToSenderLogistics" />
+      <recent name="Inheritance" />
+      <recent name="Tic_Tac_Toe" />
+      <recent name="ArrayList" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.DispatchRidersTest">
+    <configuration name="DispatchRidersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BackToSenderLogistics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="BackToSenderLogistics" />
+      <option name="MAIN_CLASS_NAME" value="BackToSenderLogistics.DispatchRidersTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DispatchRidersTest.enterNumberGreaterThan70_throwInvalidInputException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BackToSenderLogistics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="BackToSenderLogistics" />
+      <option name="MAIN_CLASS_NAME" value="BackToSenderLogistics.DispatchRidersTest" />
+      <option name="METHOD_NAME" value="enterNumberGreaterThan70_throwInvalidInputException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DispatchRidersTest.enterZero_throwInvalidInputException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BackToSenderLogistics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="BackToSenderLogistics" />
+      <option name="MAIN_CLASS_NAME" value="BackToSenderLogistics.DispatchRidersTest" />
+      <option name="METHOD_NAME" value="enterZero_throwInvalidInputException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DispatchRidersTest.ridersPayment3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BackToSenderLogistics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="BackToSenderLogistics" />
+      <option name="MAIN_CLASS_NAME" value="BackToSenderLogistics.DispatchRidersTest" />
+      <option name="METHOD_NAME" value="ridersPayment3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DispatchRidersTest.successfulDeliveryOf80_ridersPayment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BackToSenderLogistics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="BackToSenderLogistics" />
+      <option name="MAIN_CLASS_NAME" value="BackToSenderLogistics.DispatchRidersTest" />
+      <option name="METHOD_NAME" value="successfulDeliveryOf80_ridersPayment" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DispatchRidersTest" />
+        <item itemvalue="JUnit.DispatchRidersTest.enterZero_throwInvalidInputException" />
+        <item itemvalue="JUnit.DispatchRidersTest.successfulDeliveryOf80_ridersPayment" />
+        <item itemvalue="JUnit.DispatchRidersTest.enterNumberGreaterThan70_throwInvalidInputException" />
+        <item itemvalue="JUnit.DispatchRidersTest.ridersPayment3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff1855cf-e84b-4bf3-b6f8-df0e4008dc33" name="Changes" comment="" />
+      <created>1706690940403</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706690940403</updated>
+      <workItem from="1706690941411" duration="17059000" />
+      <workItem from="1706720680013" duration="2349000" />
+      <workItem from="1706772064004" duration="19517000" />
+      <workItem from="1706852567479" duration="167000" />
+      <workItem from="1706904937426" duration="29000" />
+      <workItem from="1706905054649" duration="25000" />
+      <workItem from="1706905602696" duration="96000" />
+      <workItem from="1706947233032" duration="4570000" />
+      <workItem from="1706969251679" duration="35000" />
+      <workItem from="1706969929169" duration="27000" />
+      <workItem from="1706971177373" duration="36000" />
+      <workItem from="1706971411850" duration="283000" />
+      <workItem from="1706972666660" duration="283000" />
+      <workItem from="1706973038936" duration="511000" />
+      <workItem from="1706973939154" duration="35000" />
+      <workItem from="1706974112277" duration="314000" />
+      <workItem from="1706988405870" duration="96000" />
+      <workItem from="1706988580642" duration="27000" />
+      <workItem from="1707059872251" duration="16000" />
+      <workItem from="1707079872155" duration="81000" />
+      <workItem from="1707236925138" duration="289000" />
+      <workItem from="1707297040291" duration="466000" />
+      <workItem from="1707657701307" duration="64000" />
+      <workItem from="1707682568977" duration="128000" />
+      <workItem from="1707682714861" duration="1098000" />
+      <workItem from="1707809631236" duration="1852000" />
+      <workItem from="1707850773488" duration="3823000" />
+      <workItem from="1707903323890" duration="140000" />
+      <workItem from="1707903508455" duration="4054000" />
+      <workItem from="1707920697012" duration="1046000" />
+      <workItem from="1707928503583" duration="2720000" />
+      <workItem from="1707931288453" duration="107000" />
+      <workItem from="1707931417005" duration="323000" />
+      <workItem from="1707932858889" duration="7032000" />
+      <workItem from="1707946956571" duration="13000" />
+      <workItem from="1707947429438" duration="25000" />
+      <workItem from="1707947626223" duration="39000" />
+      <workItem from="1707948073662" duration="5000" />
+      <workItem from="1707949090210" duration="42000" />
+      <workItem from="1707990191842" duration="2535000" />
+      <workItem from="1707997637384" duration="889000" />
+      <workItem from="1708001854733" duration="432000" />
+      <workItem from="1708020511476" duration="17000" />
+      <workItem from="1708024388596" duration="20000" />
+      <workItem from="1708182411144" duration="6000" />
+      <workItem from="1708182462342" duration="66000" />
+      <workItem from="1708184938567" duration="169000" />
+      <workItem from="1708408907149" duration="135000" />
+      <workItem from="1708409709907" duration="53000" />
+      <workItem from="1708409840718" duration="48000" />
+      <workItem from="1708503355883" duration="30000" />
+      <workItem from="1708504132646" duration="8000" />
+      <workItem from="1708512169273" duration="95000" />
+      <workItem from="1708512300772" duration="669000" />
+      <workItem from="1708512994091" duration="87000" />
+      <workItem from="1708513127490" duration="3028000" />
+      <workItem from="1708516243829" duration="996000" />
+      <workItem from="1708517272165" duration="1912000" />
+      <workItem from="1708539424199" duration="63000" />
+      <workItem from="1708585314177" duration="2645000" />
+      <workItem from="1708850728475" duration="36000" />
+      <workItem from="1709189972491" duration="43000" />
+      <workItem from="1709193580253" duration="1435000" />
+      <workItem from="1709256003281" duration="632000" />
+      <workItem from="1709297322953" duration="728000" />
+      <workItem from="1709313256118" duration="12000" />
+      <workItem from="1709326682808" duration="101000" />
+      <workItem from="1709399550738" duration="4552000" />
+      <workItem from="1709517108443" duration="45000" />
+      <workItem from="1709517178867" duration="37000" />
+      <workItem from="1709521643979" duration="1890000" />
+      <workItem from="1709524239542" duration="8000" />
+      <workItem from="1709536735120" duration="3783000" />
+      <workItem from="1709565658178" duration="299000" />
+      <workItem from="1709617480113" duration="597000" />
+      <workItem from="1709619527676" duration="49000" />
+      <workItem from="1709657799062" duration="3995000" />
+      <workItem from="1709680211655" duration="23000" />
+      <workItem from="1709680272803" duration="20000" />
+      <workItem from="1709680425580" duration="14000" />
+      <workItem from="1709796512434" duration="2547000" />
+      <workItem from="1709799119287" duration="2613000" />
+      <workItem from="1709814053061" duration="627000" />
+      <workItem from="1709814701089" duration="7053000" />
+    </task>
+    <task id="LOCAL-00001" summary="project">
+      <option name="closed" value="true" />
+      <created>1709837380325</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709837380325</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="project" />
+    <option name="LAST_COMMIT_MESSAGE" value="project" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/fireDrillOne/TaskSix.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/fireDrillTwo/TaskFour.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TaskThree.java</url>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/chapterThree/AirConditionerTest.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/fireDrillTwo/TaskTwo.java</url>
+          <line>5</line>
+          <properties class="fireDrillTwo.TaskTwo" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/test/chapterThree/AccountTest.java</url>
+          <line>36</line>
+          <properties class="chapterThree.AccountTest" method="withdrawalPositiveAmount_balanceDecreasesTest">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/test/chapterThree/AccountTest.java</url>
+          <line>46</line>
+          <properties class="chapterThree.AccountTest" method="withdrawNegativeAmount_balanceRemainsUnchanged">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/test/chapterThree/AirConditionerTest.java</url>
+          <line>28</line>
+          <properties class="chapterThree.AirConditionerTest" method="testThat_acTemperatureIncreases">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/test/chapterThree/AirConditionerTest.java</url>
+          <line>37</line>
+          <properties class="chapterThree.AirConditionerTest" method="testThat_acTemperatureDecreases">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
