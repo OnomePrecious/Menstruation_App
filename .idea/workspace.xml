@@ -4,7 +4,51 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff1855cf-e84b-4bf3-b6f8-df0e4008dc33" name="Changes" comment="project" />
+    <list default="true" id="ff1855cf-e84b-4bf3-b6f8-df0e4008dc33" name="Changes" comment="project">
+      <change afterPath="$PROJECT_DIR$/.idea/javaTask.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTask/ArrayList/MyArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTask/BackToSenderLogistics/DispatchRiders.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTask/BackToSenderLogistics/InvalidInputException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTask/DateOfBirth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTask/DisplayStars.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTask/Inheritance/Amphibians.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTask/Inheritance/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTask/Inheritance/Aves.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTask/Inheritance/Invertebrates.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTask/Inheritance/Mammals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTask/Inheritance/Pisces.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTask/Inheritance/Plants.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTask/Inheritance/Reptiles.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTask/Inheritance/Vertebrates.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTask/Tic_Tac_Toe/CellValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTask/Tic_Tac_Toe/TicTacToe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTask/chapterThree/DemoArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTask/chapterThree/DemoArray1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTask/chapterThree/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTask/chapterThree/Problem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTask/chapterThree/ReplaceArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTask/chapterThree/Type.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTask/fireDrillTwo/TaskFour.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaTask/fireDrillTwo/TaskFour.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTask/personal/AddTwoNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/javaTask/ArrayList/MyArrayListTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/javaTask/BackToSenderLogistics/DispatchRidersTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/javaTask/DateOfBirthTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/javaTask/Inheritance/LivingThingsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/javaTask/Tic_Tac_Toe/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/javaTask/Tic_Tac_Toe/TicTacToeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/javaTask/chapterThree/AccountTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/javaTask/chapterThree/AccountTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/javaTask/chapterThree/AddTwoNumbersTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/javaTask/chapterThree/AirConditionerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/javaTask/chapterThree/AirConditionerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/javaTask/chapterThree/PersonTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/javaTask/chapterThree/ReplaceArrayTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/chapterThree/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/chapterThree/AccountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/chapterThree/AirConditionerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/chapterThree/AirConditionerTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,6 +106,10 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/DELL/IdeaProjects/javaTask/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -71,6 +119,9 @@
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\IdeaProjects\javaTask\out\test\javaTask" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="BackToSenderLogistics" />
@@ -83,7 +134,37 @@
       <recent name="ArrayList" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.DispatchRidersTest">
+  <component name="RunManager" selected="JUnit.AirConditionerTest">
+    <configuration name="AccountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapterThree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="chapterThree" />
+      <option name="MAIN_CLASS_NAME" value="chapterThree.AccountTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AirConditionerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapterThree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="chapterThree" />
+      <option name="MAIN_CLASS_NAME" value="chapterThree.AirConditionerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DispatchRidersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaTask" />
       <extension name="coverage">
@@ -99,22 +180,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DispatchRidersTest.enterNumberGreaterThan70_throwInvalidInputException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="javaTask" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BackToSenderLogistics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="BackToSenderLogistics" />
-      <option name="MAIN_CLASS_NAME" value="BackToSenderLogistics.DispatchRidersTest" />
-      <option name="METHOD_NAME" value="enterNumberGreaterThan70_throwInvalidInputException" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="DispatchRidersTest.enterZero_throwInvalidInputException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaTask" />
       <extension name="coverage">
@@ -126,22 +191,6 @@
       <option name="PACKAGE_NAME" value="BackToSenderLogistics" />
       <option name="MAIN_CLASS_NAME" value="BackToSenderLogistics.DispatchRidersTest" />
       <option name="METHOD_NAME" value="enterZero_throwInvalidInputException" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DispatchRidersTest.ridersPayment3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="javaTask" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BackToSenderLogistics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="BackToSenderLogistics" />
-      <option name="MAIN_CLASS_NAME" value="BackToSenderLogistics.DispatchRidersTest" />
-      <option name="METHOD_NAME" value="ridersPayment3" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -165,11 +214,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AirConditionerTest" />
+        <item itemvalue="JUnit.AccountTest" />
         <item itemvalue="JUnit.DispatchRidersTest" />
         <item itemvalue="JUnit.DispatchRidersTest.enterZero_throwInvalidInputException" />
         <item itemvalue="JUnit.DispatchRidersTest.successfulDeliveryOf80_ridersPayment" />
-        <item itemvalue="JUnit.DispatchRidersTest.enterNumberGreaterThan70_throwInvalidInputException" />
-        <item itemvalue="JUnit.DispatchRidersTest.ridersPayment3" />
       </list>
     </recent_temporary>
   </component>
@@ -265,6 +314,19 @@
       <workItem from="1709799119287" duration="2613000" />
       <workItem from="1709814053061" duration="627000" />
       <workItem from="1709814701089" duration="7053000" />
+      <workItem from="1709837812839" duration="1271000" />
+      <workItem from="1709842087733" duration="45000" />
+      <workItem from="1709842142275" duration="41000" />
+      <workItem from="1709842193634" duration="820000" />
+      <workItem from="1709843460790" duration="112000" />
+      <workItem from="1709843711886" duration="29000" />
+      <workItem from="1709843764048" duration="2803000" />
+      <workItem from="1709883753884" duration="59000" />
+      <workItem from="1709885107145" duration="409000" />
+      <workItem from="1709885523984" duration="22000" />
+      <workItem from="1709885568669" duration="92000" />
+      <workItem from="1709885717020" duration="1242000" />
+      <workItem from="1709899280568" duration="30000" />
     </task>
     <task id="LOCAL-00001" summary="project">
       <option name="closed" value="true" />
@@ -308,7 +370,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/test/chapterThree/AirConditionerTest.java</url>
-          <line>21</line>
+          <line>22</line>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
@@ -321,26 +383,8 @@
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/test/chapterThree/AccountTest.java</url>
-          <line>36</line>
-          <properties class="chapterThree.AccountTest" method="withdrawalPositiveAmount_balanceDecreasesTest">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/test/chapterThree/AccountTest.java</url>
-          <line>46</line>
-          <properties class="chapterThree.AccountTest" method="withdrawNegativeAmount_balanceRemainsUnchanged">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/test/chapterThree/AirConditionerTest.java</url>
-          <line>28</line>
+          <line>29</line>
           <properties class="chapterThree.AirConditionerTest" method="testThat_acTemperatureIncreases">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
@@ -349,7 +393,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/test/chapterThree/AirConditionerTest.java</url>
-          <line>37</line>
+          <line>38</line>
           <properties class="chapterThree.AirConditionerTest" method="testThat_acTemperatureDecreases">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
