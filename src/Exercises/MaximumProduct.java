@@ -1,3 +1,5 @@
+package Exercises;
+
 public class MaximumProduct {
 
     public static int maxiNumberInArray(int... numbers) {
