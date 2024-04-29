@@ -1,3 +1,5 @@
+package Exercises;
+
 public class Person {
 
     private String name;

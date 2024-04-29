@@ -5,12 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff1855cf-e84b-4bf3-b6f8-df0e4008dc33" name="Changes" comment="project">
-      <change afterPath="$PROJECT_DIR$/test/BackToSenderLogistics/DispatchRiders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/BackToSenderLogistics/DispatchRidersTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/BackToSenderLogistics/InvalidInputException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/AddingLastIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter13/DemoStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Exercises/AddingLastIndexTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_7_2024_7_50_PM_[Changes]1/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_7_2024_7_50_PM__Changes_1.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Library/BookTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Library/BookTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapterOne/AddTwoNumbersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterOne/AddTwoNumbersTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTask/BackToSenderLogistics/DispatchRiders.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTask/CardShuffling/DeckOfCards.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaTask/CardShuffling/DeckOfCards.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTask/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CardShuffling/DeckOfCards.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CardShuffling/DeckOfCards.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapterOne/AddTwoNumbersTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +31,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="JUnit4 Test Class" />
         <option value="Class" />
         <option value="JUnit5 Test Class" />
       </list>
@@ -51,6 +59,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
     &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
     &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
@@ -60,9 +69,11 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4&quot;: &quot;&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/DELL/IdeaProjects/javaTask/src&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -78,7 +89,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="SubtractMiniAndMaxi" />
       <recent name="chapterThree" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\IdeaProjects\javaTask\src" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -87,91 +102,86 @@
       <recent name="C:\Users\DELL\IdeaProjects\javaTask\out\test\javaTask" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Exercises" />
+      <recent name="" />
       <recent name="BackToSenderLogistics" />
       <recent name="Tic_Tac_Toe" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="Exercises" />
+      <recent name="" />
       <recent name="BackToSenderLogistics" />
       <recent name="Inheritance" />
       <recent name="Tic_Tac_Toe" />
-      <recent name="ArrayList" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.DispatchRidersTest">
-    <configuration name="DispatchRidersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.AddingWithoutUsingPlusOperatorTest.test_operator">
+    <configuration name="AddingLastIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises.AddingLastIndex" />
       <module name="javaTask" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BackToSenderLogistics.*" />
+          <option name="PATTERN" value="Exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="BackToSenderLogistics" />
-      <option name="MAIN_CLASS_NAME" value="BackToSenderLogistics.DispatchRidersTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DispatchRidersTest.testInputZero_throwsAnException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AddingWithoutUsingPlusOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises.AddingWithoutUsingPlusOperator" />
       <module name="javaTask" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BackToSenderLogistics.*" />
+          <option name="PATTERN" value="Exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="BackToSenderLogistics" />
-      <option name="MAIN_CLASS_NAME" value="BackToSenderLogistics.DispatchRidersTest" />
-      <option name="METHOD_NAME" value="testInputZero_throwsAnException" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises.Palindrome" />
+      <module name="javaTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddingLastIndexTest.addIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Exercises" />
+      <option name="MAIN_CLASS_NAME" value="Exercises.AddingLastIndexTest" />
+      <option name="METHOD_NAME" value="addIndex" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DispatchRidersTest.testSuccessfulDeliveryOf25_ridersPayment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AddingWithoutUsingPlusOperatorTest.test_operator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaTask" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BackToSenderLogistics.*" />
+          <option name="PATTERN" value="Exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="BackToSenderLogistics" />
-      <option name="MAIN_CLASS_NAME" value="BackToSenderLogistics.DispatchRidersTest" />
-      <option name="METHOD_NAME" value="testSuccessfulDeliveryOf25_ridersPayment" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DispatchRidersTest.testSuccessfulDeliveryOf70_ridersPayment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="javaTask" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BackToSenderLogistics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="BackToSenderLogistics" />
-      <option name="MAIN_CLASS_NAME" value="BackToSenderLogistics.DispatchRidersTest" />
-      <option name="METHOD_NAME" value="testSuccessfulDeliveryOf70_ridersPayment" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DispatchRidersTest.testSuccessfulDeliveryOf80_ridersPayment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="javaTask" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BackToSenderLogistics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="BackToSenderLogistics" />
-      <option name="MAIN_CLASS_NAME" value="BackToSenderLogistics.DispatchRidersTest" />
-      <option name="METHOD_NAME" value="testSuccessfulDeliveryOf80_ridersPayment" />
+      <option name="PACKAGE_NAME" value="Exercises" />
+      <option name="MAIN_CLASS_NAME" value="Exercises.AddingWithoutUsingPlusOperatorTest" />
+      <option name="METHOD_NAME" value="test_operator" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -179,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.DispatchRidersTest" />
-        <item itemvalue="JUnit.DispatchRidersTest.testSuccessfulDeliveryOf80_ridersPayment" />
-        <item itemvalue="JUnit.DispatchRidersTest.testSuccessfulDeliveryOf70_ridersPayment" />
-        <item itemvalue="JUnit.DispatchRidersTest.testInputZero_throwsAnException" />
-        <item itemvalue="JUnit.DispatchRidersTest.testSuccessfulDeliveryOf25_ridersPayment" />
+        <item itemvalue="JUnit.AddingWithoutUsingPlusOperatorTest.test_operator" />
+        <item itemvalue="Application.AddingWithoutUsingPlusOperator" />
+        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Application.AddingLastIndex" />
+        <item itemvalue="JUnit.AddingLastIndexTest.addIndex" />
       </list>
     </recent_temporary>
   </component>
@@ -293,7 +303,48 @@
       <workItem from="1709885717020" duration="1242000" />
       <workItem from="1709899280568" duration="30000" />
       <workItem from="1709899326346" duration="1091000" />
-      <workItem from="1709903366584" duration="1955000" />
+      <workItem from="1709903366584" duration="2632000" />
+      <workItem from="1709966779785" duration="11000" />
+      <workItem from="1710001845491" duration="167000" />
+      <workItem from="1710002806651" duration="58000" />
+      <workItem from="1710069067967" duration="28000" />
+      <workItem from="1710139469405" duration="51000" />
+      <workItem from="1710223904194" duration="41000" />
+      <workItem from="1710244135336" duration="344000" />
+      <workItem from="1710244510681" duration="33000" />
+      <workItem from="1710245179237" duration="15000" />
+      <workItem from="1710248477275" duration="707000" />
+      <workItem from="1710250033417" duration="13000" />
+      <workItem from="1710262215857" duration="33000" />
+      <workItem from="1710267036674" duration="11000" />
+      <workItem from="1710268338005" duration="107000" />
+      <workItem from="1710269029991" duration="15000" />
+      <workItem from="1710276727785" duration="38000" />
+      <workItem from="1710301245178" duration="6000" />
+      <workItem from="1710303052881" duration="41000" />
+      <workItem from="1710332157700" duration="20000" />
+      <workItem from="1710332197942" duration="3380000" />
+      <workItem from="1710699200343" duration="44000" />
+      <workItem from="1710823411426" duration="65000" />
+      <workItem from="1710827969114" duration="10000" />
+      <workItem from="1710872871392" duration="53000" />
+      <workItem from="1710873499970" duration="612000" />
+      <workItem from="1710945579794" duration="589000" />
+      <workItem from="1710971880299" duration="1187000" />
+      <workItem from="1710999801572" duration="566000" />
+      <workItem from="1711212758327" duration="126000" />
+      <workItem from="1711226093681" duration="215000" />
+      <workItem from="1711613517952" duration="320000" />
+      <workItem from="1711613912360" duration="1369000" />
+      <workItem from="1711615329080" duration="2654000" />
+      <workItem from="1712838027217" duration="692000" />
+      <workItem from="1712847910402" duration="598000" />
+      <workItem from="1713514343843" duration="11425000" />
+      <workItem from="1713625302052" duration="1734000" />
+      <workItem from="1713871255851" duration="16456000" />
+      <workItem from="1714028087443" duration="1360000" />
+      <workItem from="1714329590844" duration="304000" />
+      <workItem from="1714381004310" duration="3061000" />
     </task>
     <task id="LOCAL-00001" summary="project">
       <option name="closed" value="true" />
@@ -319,7 +370,87 @@
       <option name="project" value="LOCAL" />
       <updated>1709899508451</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="project">
+      <option name="closed" value="true" />
+      <created>1709905490815</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709905490815</updated>
+    </task>
+    <task id="LOCAL-00005" summary="project">
+      <option name="closed" value="true" />
+      <created>1709905788267</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709905788267</updated>
+    </task>
+    <task id="LOCAL-00006" summary="project">
+      <option name="closed" value="true" />
+      <created>1711616798568</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1711616798568</updated>
+    </task>
+    <task id="LOCAL-00007" summary="project">
+      <option name="closed" value="true" />
+      <created>1713627467446</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1713627467446</updated>
+    </task>
+    <task id="LOCAL-00008" summary="project">
+      <option name="closed" value="true" />
+      <created>1713627529669</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1713627529669</updated>
+    </task>
+    <task id="LOCAL-00009" summary="project">
+      <option name="closed" value="true" />
+      <created>1713627581095</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1713627581095</updated>
+    </task>
+    <task id="LOCAL-00010" summary="project">
+      <option name="closed" value="true" />
+      <created>1713880575423</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1713880575423</updated>
+    </task>
+    <task id="LOCAL-00011" summary="project">
+      <option name="closed" value="true" />
+      <created>1713887269694</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1713887269694</updated>
+    </task>
+    <task id="LOCAL-00012" summary="project">
+      <option name="closed" value="true" />
+      <created>1713888847082</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1713888847082</updated>
+    </task>
+    <task id="LOCAL-00013" summary="project">
+      <option name="closed" value="true" />
+      <created>1714383933780</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1714383933780</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -356,6 +487,26 @@
           <line>22</line>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Exercises/Reverse.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/Exercises/ReverseTest.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Exercises/Reverse.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Exercises/AddingLastIndex.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/fireDrillTwo/TaskTwo.java</url>
           <line>5</line>
@@ -382,6 +533,32 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/test/SubtractMiniAndMaxi/DemoSubtractTest.java</url>
+          <line>9</line>
+          <properties class="SubtractMiniAndMaxi.DemoSubtractTest" method="testThatICanSubtractMinimumAndMaximumNumber">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Exercises/MaximumProduct.java</url>
+          <properties class="MaximumProduct">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/chapter15/files/Example.java</url>
+          <line>15</line>
+          <properties class="chapter15.files.Example" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
