@@ -5,19 +5,59 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff1855cf-e84b-4bf3-b6f8-df0e4008dc33" name="Changes" comment="project">
-      <change afterPath="$PROJECT_DIR$/src/Exercises/AddingLastIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter13/DemoStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/Exercises/AddingLastIndexTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_7_2024_7_50_PM_[Changes]1/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_7_2024_7_50_PM__Changes_1.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter15/files/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter15/json/serialization/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter15/json/serialization/JsonSerializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter15/json/serialization/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter15/streams/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter15/streams/Example10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter15/streams/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter15/streams/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter15/streams/Example4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter15/streams/Example5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter15/streams/Example6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter15/streams/Example7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter15/streams/Example8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter15/streams/Example9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter15/streams/WebScraper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter15/streams/sample.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter15/streams/sample2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter15/streams/sample3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter15/streams/sample4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter15/streams/sample5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter15/streams/sample6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter15/streams/sample7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exerciseOnFiles/Transaction/JsonFileFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exerciseOnFiles/Transaction/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exerciseOnFiles/Transaction/Type.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exerciseOnFiles/Transaction/transaction.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/chapter15/json/serialization/JsonSerializerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/exerciseOnFiles/Transaction/JsonFileFunctionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/javaTask.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/javaTask.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaTask/BackToSenderLogistics/DispatchRiders.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaTask/CardShuffling/DeckOfCards.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaTask/CardShuffling/DeckOfCards.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaTask/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CardShuffling/DeckOfCards.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CardShuffling/DeckOfCards.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapterOne/AddTwoNumbersTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTask/Contact.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTask/DataEncryptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTask/Exercises/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTask/FireDrillThree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTask/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTask/MenstruationApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTask/PhoneBookApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTask/TaskThree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTask/TaskTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTask/chapter15/files/Example.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaTask/chapter15/files/Example.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/javaTask/MaximumProductTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chunk/Contact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataEncryptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chunk/DataEncryptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FireDrillThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chunk/FireDrillThree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Library/BookTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chunk/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MenstruationApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chunk/MenstruationApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PhoneBookApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chunk/PhoneBookApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TaskThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chunk/TaskThree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TaskTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chunk/TaskTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter15/files/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter15/files/Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/MaximumProductTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/Exercises/MaximumProductTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,15 +70,29 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="JUnit4 Test Class" />
-        <option value="Class" />
+        <option value="Enum" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;OnomePrecious&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="18d5a29f-ff9e-4867-bf2a-bb64061ef1b5" />
+        <option name="url" value="https://github.com/OnomePrecious/javaProjects.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/Tic_Tac_Toe/TicTacToe.java" root0="FORCE_HIGHLIGHTING" />
@@ -73,17 +127,17 @@
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/DELL/IdeaProjects/javaTask/src&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/DELL/IdeaProjects/javaTask&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/DELL/IdeaProjects/javaTask/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -93,12 +147,16 @@
       <recent name="chapterThree" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\IdeaProjects\javaTask" />
       <recent name="C:\Users\DELL\IdeaProjects\javaTask\src" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\IdeaProjects\javaTask\src\exerciseOnFiles\Transaction" />
+      <recent name="C:\Users\DELL\IdeaProjects\javaTask" />
+      <recent name="C:\Users\DELL\IdeaProjects\javaTask\src\chapter15\streams" />
       <recent name="C:\Users\DELL\IdeaProjects\javaTask\out\test\javaTask" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -108,20 +166,20 @@
       <recent name="Tic_Tac_Toe" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="exerciseOnFiles.Transaction" />
+      <recent name="chapter15.json.serialization" />
       <recent name="Exercises" />
       <recent name="" />
       <recent name="BackToSenderLogistics" />
-      <recent name="Inheritance" />
-      <recent name="Tic_Tac_Toe" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.AddingWithoutUsingPlusOperatorTest.test_operator">
-    <configuration name="AddingLastIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises.AddingLastIndex" />
+  <component name="RunManager" selected="Application.Example5">
+    <configuration name="Example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter16.Example2" />
       <module name="javaTask" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercises.*" />
+          <option name="PATTERN" value="chapter16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +187,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AddingWithoutUsingPlusOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises.AddingWithoutUsingPlusOperator" />
+    <configuration name="Example3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter16.Example3" />
       <module name="javaTask" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercises.*" />
+          <option name="PATTERN" value="chapter16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +200,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises.Palindrome" />
+    <configuration name="Example4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter16.Example4" />
       <module name="javaTask" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercises.*" />
+          <option name="PATTERN" value="chapter16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,33 +213,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AddingLastIndexTest.addIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Example5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter16.Example5" />
       <module name="javaTask" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercises.*" />
+          <option name="PATTERN" value="chapter16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Exercises" />
-      <option name="MAIN_CLASS_NAME" value="Exercises.AddingLastIndexTest" />
-      <option name="METHOD_NAME" value="addIndex" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AddingWithoutUsingPlusOperatorTest.test_operator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="JsonFileFunctionTest.calculate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaTask" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercises.*" />
+          <option name="PATTERN" value="exerciseOnFiles.Transaction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Exercises" />
-      <option name="MAIN_CLASS_NAME" value="Exercises.AddingWithoutUsingPlusOperatorTest" />
-      <option name="METHOD_NAME" value="test_operator" />
+      <option name="PACKAGE_NAME" value="exerciseOnFiles.Transaction" />
+      <option name="MAIN_CLASS_NAME" value="exerciseOnFiles.Transaction.JsonFileFunctionTest" />
+      <option name="METHOD_NAME" value="calculate" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -189,11 +244,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AddingWithoutUsingPlusOperatorTest.test_operator" />
-        <item itemvalue="Application.AddingWithoutUsingPlusOperator" />
-        <item itemvalue="Application.Palindrome" />
-        <item itemvalue="Application.AddingLastIndex" />
-        <item itemvalue="JUnit.AddingLastIndexTest.addIndex" />
+        <item itemvalue="Application.Example5" />
+        <item itemvalue="Application.Example4" />
+        <item itemvalue="Application.Example3" />
+        <item itemvalue="Application.Example2" />
+        <item itemvalue="JUnit.JsonFileFunctionTest.calculate" />
       </list>
     </recent_temporary>
   </component>
@@ -344,7 +399,18 @@
       <workItem from="1713871255851" duration="16456000" />
       <workItem from="1714028087443" duration="1360000" />
       <workItem from="1714329590844" duration="304000" />
-      <workItem from="1714381004310" duration="3061000" />
+      <workItem from="1714381004310" duration="5857000" />
+      <workItem from="1714403619205" duration="3285000" />
+      <workItem from="1714452036534" duration="24000" />
+      <workItem from="1714464884902" duration="11455000" />
+      <workItem from="1714481353147" duration="11107000" />
+      <workItem from="1714564567688" duration="24000" />
+      <workItem from="1714984772279" duration="14906000" />
+      <workItem from="1715085715885" duration="2901000" />
+      <workItem from="1715330686297" duration="6315000" />
+      <workItem from="1715591221665" duration="14753000" />
+      <workItem from="1715629531595" duration="262000" />
+      <workItem from="1715631335102" duration="1499000" />
     </task>
     <task id="LOCAL-00001" summary="project">
       <option name="closed" value="true" />
@@ -450,7 +516,23 @@
       <option name="project" value="LOCAL" />
       <updated>1714383933780</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="project">
+      <option name="closed" value="true" />
+      <created>1714473265038</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1714473265038</updated>
+    </task>
+    <task id="LOCAL-00015" summary="project">
+      <option name="closed" value="true" />
+      <created>1715632823761</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1715632823761</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -464,7 +546,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/chunk/Main.java</url>
           <line>5</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
@@ -479,7 +561,7 @@
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TaskThree.java</url>
+          <url>file://$PROJECT_DIR$/src/chunk/TaskThree.java</url>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -506,6 +588,16 @@
           <url>file://$PROJECT_DIR$/src/Exercises/AddingLastIndex.java</url>
           <line>4</line>
           <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exerciseOnFiles/Transaction/JsonFileFunction.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/exerciseOnFiles/Transaction/JsonFileFunctionTest.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="45" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/fireDrillTwo/TaskTwo.java</url>
@@ -552,15 +644,19 @@
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/chapter15/files/Example.java</url>
-          <line>15</line>
-          <properties class="chapter15.files.Example" method="main">
+          <url>file://$PROJECT_DIR$/src/Exercises/BarChart.java</url>
+          <line>5</line>
+          <properties class="Exercises.BarChart" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
-          <option name="timeStamp" value="28" />
+          <option name="timeStamp" value="42" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
