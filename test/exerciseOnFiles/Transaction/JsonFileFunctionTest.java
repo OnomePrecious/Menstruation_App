@@ -14,25 +14,25 @@ class JsonFileFunctionTest {
 
     @Test
     public void test_deserialize() throws JsonProcessingException {
-        Transaction transaction = new Transaction(1, "Precious", 200000, DEBIT, LocalDateTime.now());
-        String json = JsonFileFunction.serialize(transaction);
-        Transaction[] result = JsonFileFunction.deserialize(json);
+        Transactions transactions = new Transactions(1, "Precious", 200000, DEBIT, LocalDateTime.now());
+        String json = JsonFileFunction.serialize(transactions);
+        Transactions[] result = JsonFileFunction.deserialize(json);
 
         assertNotNull(result);
-        assertEquals("Precious", transaction.getName(), json);
+        assertEquals("Precious", transactions.getName(), json);
     }
 
     @Test
   public void calculate() throws IOException {
-        Transaction transaction = new Transaction();
-        transaction.setId(1);
-        transaction.setName("Precious");
-        transaction.setAmount(200000);
-        transaction.setType(DEBIT);
-        transaction.setDate(LocalDateTime.now());
-        //String json = JsonFileFunction.serialize(transaction);
-       // Transaction[] result = JsonFileFunction.deserialize(json);
-        int numberOfTransactions = JsonFileFunction.calculate("C:\\Users\\DELL\\IdeaProjects\\javaTask\\src\\exerciseOnFiles\\Transaction\\transactions.json");
+        Transactions transactions = new Transactions();
+        transactions.setId(1);
+        transactions.setName("Precious");
+        transactions.setAmount(200000);
+        transactions.setType(DEBIT);
+        transactions.setDate(LocalDateTime.now());
+        //String json = JsonFileFunction.serialize(transactions);
+       // Transactions[] result = JsonFileFunction.deserialize(json);
+        int numberOfTransactions = JsonFileFunction.calculate("C:\\Users\\DELL\\IdeaProjects\\javaTask\\src\\exerciseOnFiles\\Transactions\\transactions.json");
         assertEquals(1, numberOfTransactions);
 
     }

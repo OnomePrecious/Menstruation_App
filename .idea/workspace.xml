@@ -5,59 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff1855cf-e84b-4bf3-b6f8-df0e4008dc33" name="Changes" comment="project">
-      <change afterPath="$PROJECT_DIR$/src/chapter15/files/Example3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter15/json/serialization/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter15/json/serialization/JsonSerializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter15/json/serialization/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter15/streams/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter15/streams/Example10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter15/streams/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter15/streams/Example3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter15/streams/Example4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter15/streams/Example5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter15/streams/Example6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter15/streams/Example7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter15/streams/Example8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter15/streams/Example9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter15/streams/WebScraper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter15/streams/sample.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter15/streams/sample2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter15/streams/sample3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter15/streams/sample4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter15/streams/sample5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter15/streams/sample6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter15/streams/sample7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exerciseOnFiles/Transaction/JsonFileFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exerciseOnFiles/Transaction/Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exerciseOnFiles/Transaction/Type.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exerciseOnFiles/Transaction/transaction.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/chapter15/json/serialization/JsonSerializerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/exerciseOnFiles/Transaction/JsonFileFunctionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/javaTask.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/javaTask.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter16/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter17/Flyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter17/FlyableImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter17/FunctionalInterface/assignment/DoubleBinaryOperatorSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter17/FunctionalInterface/assignment/DoubleConsumerSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter17/FunctionalInterface/assignment/DoubleFunctionSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter17/FunctionalInterface/assignment/DoublePredicateSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter17/FunctionalInterface/booleanSupplier/BooleanSupplierSample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaTask/Contact.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaTask/DataEncryptor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaTask/Exercises/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaTask/FireDrillThree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaTask/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaTask/MenstruationApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaTask/PhoneBookApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaTask/TaskThree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaTask/TaskTwo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaTask/chapter15/files/Example.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaTask/chapter15/files/Example.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/javaTask/MaximumProductTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chunk/Contact.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataEncryptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chunk/DataEncryptor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercises/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FireDrillThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chunk/FireDrillThree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Library/BookTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chunk/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MenstruationApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chunk/MenstruationApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PhoneBookApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chunk/PhoneBookApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TaskThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chunk/TaskThree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TaskTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chunk/TaskTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter15/files/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter15/files/Example.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/MaximumProductTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/Exercises/MaximumProductTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTask/exerciseOnFiles/Transaction/JsonFileFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaTask/exerciseOnFiles/Transaction/JsonFileFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTask/exerciseOnFiles/Transaction/Transaction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exerciseOnFiles/Transaction/JsonFileFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exerciseOnFiles/Transaction/JsonFileFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exerciseOnFiles/Transaction/Transaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exerciseOnFiles/Transaction/Transactions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/exerciseOnFiles/Transaction/JsonFileFunctionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/exerciseOnFiles/Transaction/JsonFileFunctionTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +34,7 @@
         <option value="JUnit4 Test Class" />
         <option value="Enum" />
         <option value="JUnit5 Test Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -143,6 +105,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="chapter16" />
       <recent name="SubtractMiniAndMaxi" />
       <recent name="chapterThree" />
     </key>
@@ -166,20 +129,20 @@
       <recent name="Tic_Tac_Toe" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="chapter16" />
       <recent name="exerciseOnFiles.Transaction" />
       <recent name="chapter15.json.serialization" />
       <recent name="Exercises" />
       <recent name="" />
-      <recent name="BackToSenderLogistics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Example5">
-    <configuration name="Example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter16.Example2" />
+  <component name="RunManager" selected="Application.DoublePredicateSample">
+    <configuration name="DoubleConsumerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter17.FunctionalInterface.assignment.DoubleConsumerExample" />
       <module name="javaTask" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter16.*" />
+          <option name="PATTERN" value="chapter17.FunctionalInterface.assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter16.Example3" />
+    <configuration name="DoubleFunctionSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter17.FunctionalInterface.assignment.DoubleFunctionSample" />
       <module name="javaTask" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter16.*" />
+          <option name="PATTERN" value="chapter17.FunctionalInterface.assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -200,12 +163,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter16.Example4" />
+    <configuration name="DoublePredicateSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter17.FunctionalInterface.assignment.DoublePredicateSample" />
       <module name="javaTask" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter16.*" />
+          <option name="PATTERN" value="chapter17.FunctionalInterface.assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -213,12 +176,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter16.Example5" />
+    <configuration name="DoubleToIntFunctionSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter17.FunctionalInterface.function.DoubleToIntFunctionSample" />
       <module name="javaTask" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter16.*" />
+          <option name="PATTERN" value="chapter17.FunctionalInterface.function.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -226,29 +189,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JsonFileFunctionTest.calculate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FunctionSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter17.FunctionalInterface.function.FunctionSample" />
       <module name="javaTask" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exerciseOnFiles.Transaction.*" />
+          <option name="PATTERN" value="chapter17.FunctionalInterface.function.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="exerciseOnFiles.Transaction" />
-      <option name="MAIN_CLASS_NAME" value="exerciseOnFiles.Transaction.JsonFileFunctionTest" />
-      <option name="METHOD_NAME" value="calculate" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Example5" />
-        <item itemvalue="Application.Example4" />
-        <item itemvalue="Application.Example3" />
-        <item itemvalue="Application.Example2" />
-        <item itemvalue="JUnit.JsonFileFunctionTest.calculate" />
+        <item itemvalue="Application.DoublePredicateSample" />
+        <item itemvalue="Application.DoubleFunctionSample" />
+        <item itemvalue="Application.DoubleToIntFunctionSample" />
+        <item itemvalue="Application.FunctionSample" />
+        <item itemvalue="Application.DoubleConsumerExample" />
       </list>
     </recent_temporary>
   </component>
@@ -411,6 +371,14 @@
       <workItem from="1715591221665" duration="14753000" />
       <workItem from="1715629531595" duration="262000" />
       <workItem from="1715631335102" duration="1499000" />
+      <workItem from="1715632912999" duration="1976000" />
+      <workItem from="1715766366673" duration="4298000" />
+      <workItem from="1715801559277" duration="40000" />
+      <workItem from="1715844275728" duration="85000" />
+      <workItem from="1715935313266" duration="14752000" />
+      <workItem from="1715959721795" duration="2619000" />
+      <workItem from="1716018966864" duration="2074000" />
+      <workItem from="1716043197558" duration="2580000" />
     </task>
     <task id="LOCAL-00001" summary="project">
       <option name="closed" value="true" />
@@ -532,7 +500,23 @@
       <option name="project" value="LOCAL" />
       <updated>1715632823761</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="project">
+      <option name="closed" value="true" />
+      <created>1715634114035</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1715634114035</updated>
+    </task>
+    <task id="LOCAL-00017" summary="project">
+      <option name="closed" value="true" />
+      <created>1716019023844</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1716019023844</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

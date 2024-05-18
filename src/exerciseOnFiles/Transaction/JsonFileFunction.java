@@ -9,12 +9,12 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 
 public class JsonFileFunction {
-    public static Transaction[] deserialize(String json) throws JsonProcessingException {
+    public static Transactions[] deserialize(String json) throws JsonProcessingException {
         ObjectMapper objectMapper = new ObjectMapper();
-        return objectMapper.readValue(json, Transaction[].class);
+        return objectMapper.readValue(json, Transactions[].class);
     }
 
-    public static String serialize(Transaction transaction) {
+    public static String serialize(Transactions transaction) {
         try {
             ObjectMapper mapper = new ObjectMapper();
             String json = mapper.writeValueAsString(transaction);
@@ -28,7 +28,7 @@ public class JsonFileFunction {
     public static int calculate(String fileLocation) throws IOException {
         Path path = Paths.get(fileLocation);
         String location = Files.readString(path);
-        Transaction[] transactions = deserialize(location);
+        Transactions[] transactions = deserialize(location);
         int sum = 0;
         for (int i = 0; i < transactions.length; i++) {
             sum += transactions[i].getAmount().intValue();

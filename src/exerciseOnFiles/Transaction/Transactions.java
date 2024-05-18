@@ -11,7 +11,7 @@ import java.time.LocalDateTime;
 @JsonInclude(JsonInclude.Include.NON_EMPTY)
 
 
-public class Transaction {
+public class Transactions {
     @JsonInclude(JsonInclude.Include.NON_EMPTY)
 
     private int id;
@@ -27,16 +27,16 @@ public class Transaction {
     private LocalDateTime date;
 
 
-    // private List<Transaction> transactions = new ArrayList<>();
+    // private List<Transactions> transactions = new ArrayList<>();
 
-    public Transaction(int id, String name, int amount, Type type, LocalDateTime date) {
+    public Transactions(int id, String name, int amount, Type type, LocalDateTime date) {
         this.id = id;
         this.name = name;
         this.amount = BigDecimal.valueOf(amount);
         this.type = type;
         this.date = date;
     }
-public Transaction(){
+public Transactions(){
 
 }
     public int getId() {
@@ -82,7 +82,7 @@ public Transaction(){
 
     @Override
     public String toString() {
-        return "Transaction{" +
+        return "Transactions{" +
                 "id='" + id + '\'' +
                 ", name='" + name + '\'' +
                 ", amount='" + amount + '\'' +
