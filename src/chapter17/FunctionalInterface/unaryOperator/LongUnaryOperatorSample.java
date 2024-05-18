@@ -6,6 +6,6 @@ public class LongUnaryOperatorSample {
     public static void main(String[] args) {
         LongUnaryOperator longUnaryOperator =(number) -> 2 * number;
         Long result = longUnaryOperator.applyAsLong(30L);
-        System.out.println(result);
+        System.out.println("Result: "+ result);
     }
 }
