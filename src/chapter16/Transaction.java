@@ -22,5 +22,12 @@ public class Transaction {
     public void setAccountNumber(String accountNumber) {
         this.accountNumber = accountNumber;
     }
+    @Override
+    public String toString() {
+        return "Transaction{" +
+                "amount='" + amount + '\'' +
+                ", accountNumber='" + accountNumber + '\'' +
+                '}';
+    }
 
 }
